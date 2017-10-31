@@ -1,5 +1,5 @@
 # FreeCodeCamp
-Projects/Challenges of freecodecamp solved and hosted on codepen
+Projects/Challenges of freecodecamp solved and hosted on codepen.
 # Codepen Links
 #### RandomQuoteMachine - https://codepen.io/EmBer_Learns_Frontend/pen/YQzQzr
 #### Tempestarii - The Weather App  - https://codepen.io/EmBer_Learns_Frontend/pen/awbXWg
